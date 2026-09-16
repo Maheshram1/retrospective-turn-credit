@@ -1,0 +1,15 @@
+{
+  "description": "Unmodified source-module snapshot; no training artifacts included.",
+  "prompt_version": 22,
+  "schema_version": 8,
+  "files": [
+    {
+      "path": "trata_slime_muse/turn_credit_synthesis_spans.py",
+      "sha256": "dae3dda0a8d0d4f4b93b6fe04009bcaa544ed5b13fbc13499aedea2b9566057c"
+    },
+    {
+      "path": "trata_slime_muse/turn_credit_native.py",
+      "sha256": "8e9b32e1455a7aed0a60a9e24233b2fbfe875613758bffece2586635a04e7468"
+    }
+  ]
+}
